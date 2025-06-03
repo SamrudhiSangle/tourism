@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Marine_Drive_Skyline.jpg/800px-Marine_Drive_Skyline.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.Tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+}
+
+.main-heading {
+    color: #347aeb;
+    font-family: "Georgia";
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph {
+    color: #631087;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #347aeb;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+
+.must-visit-places-bg-container {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Marine_Drive_Skyline.jpg/800px-Marine_Drive_Skyline.jpg');
+    height: 100%;
+    background-size: cover;
+}
+
+.must-visit-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+    padding: 24px;
+}
+
+.must-visit-places-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 25px;
+}
+
+.must-visit-places-card-heading {
+    color: #343a40;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.must-visit-places-card-description {
+    color: #343a40;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.must-visit-places-card-image {
+    width: 100px;
+    height: 120px;
+}
+
+.detailed-view-bg-container {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Marine_Drive_Skyline.jpg/800px-Marine_Drive_Skyline.jpg');
+    height: 100%;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    font-family: "Roboto";
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+    margin: 15px;
+}
+
+.text-container {
+    margin: 10px;
+}
+
+.detailed-view-card-heading {
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+
+.detailed-view-card-description {
+    font-family: "Roboto";
+    font-size: 18px;
+}
